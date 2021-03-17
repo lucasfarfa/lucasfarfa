@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasfarfa
-- 👀 I’m interested in coding, crypto currencies and computers
-- 🌱 I’m currently learning back and front end development
-- 💞️ I’m looking to collaborate on error 404
+- 👀 I’m interested in coding, crypto-currencies and computers.
+- 🌱 I’m currently learning back and front end development.
+- 💞️ I’m looking to collaborate on: error 404.
 - 📫 How to reach me: at my linkedin profile: https://www.linkedin.com/in/lucasfarfallini/
 
 <!---
