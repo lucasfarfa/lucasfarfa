@@ -12,3 +12,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 📫 How to reach me: at my linkedin profile https://www.linkedin.com/in/lucasfarfallini/
 
 [![Lucas's Github Stats](https://github-readme-stats.vercel.app/api?username=lucasfarfa)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- fork this if you want to have the github status  -->
