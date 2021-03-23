@@ -4,7 +4,7 @@ I'm an IT student who lives in Buenos Aires, Argentina. I'm learning how to code
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
-- 🌱 I’m currently learning HTML, CSS, Python, JavaScript, PHP and MySQL.
+- 🌱 I’m currently learning HTML, CSS, SCSS, Python, JavaScript, PHP and MySQL.
 - 🔭 I’m currently working on creating webpages and learning how to program.
 - 😀 I like to code, read, learn about computers and crypto currencies.
 - 💬 Ask me about whatever you want.
