@@ -5,11 +5,11 @@ I'm an IT student who lives in Buenos Aires, Argentina. I'm learning how to code
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
 - 🌱 I’m currently learning HTML, CSS, Python, JavaScript, PHP and MySQL.
-- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 🔭 I’m currently working on creating webpages and learning how to program.
 - 😀 I like to code, read, learn about computers and crypto currencies.
-- 💬 Ask me about what ever you want.
+- 💬 Ask me about whatever you want.
 - ⚡ Fun fact: There are only 10 types of people in the world – those who understand binary, and those who don’t.
-- 📫 How to reach me: at my linkedin profile https://www.linkedin.com/in/lucasfarfallini/
+- 📫 How to reach me: at my linkedin profile <a href=https://www.linkedin.com/in/lucasfarfallini>here </a>
 
 [![Lucas's Github Stats](https://github-readme-stats.vercel.app/api?username=lucasfarfa)](https://github.com/anuraghazra/github-readme-stats)
 
