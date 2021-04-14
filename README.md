@@ -6,10 +6,11 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 - 🌱 I’m currently learning HTML, CSS, SASS, Python, JavaScript, PHP and MySQL.
 - 🔭 I’m currently working on creating webpages and learning how to program.
+- 👌 I recommend using the Jet Brains Mono font for coding, its perfect. <a href= "https://www.jetbrains.com/es-es/lp/mono/">link</a>
 - 😀 I like to code, read, learn about computers and crypto currencies.
 - 💬 Ask me about whatever you want.
 - ⚡ Fun fact: There are only 10 types of people in the world – those who understand binary, and those who don’t.
-- 📫 How to reach me: at my linkedin profile <a href=https://www.linkedin.com/in/lucasfarfallini>here </a>
+- 📫 How to reach me: at my <a href=https://www.linkedin.com/in/lucasfarfallini>linkedin profile</a>
 
 [![Lucas's Github Stats](https://github-readme-stats.vercel.app/api?username=lucasfarfa)](https://github.com/anuraghazra/github-readme-stats)
 
