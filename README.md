@@ -13,9 +13,3 @@
 <p align="left">Im 25 years old<br>I'm currently learning .NET and ASP.NET <br>My goal for 2026 is getting a .NET job!</p>
 
 ###
-
-<h2 align="left">Stack</h2>
-
-###
-
-###
