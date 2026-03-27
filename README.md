@@ -1,15 +1,21 @@
-<h1 align="left">Helloooo world!</h1>
+# Hey, I'm Lucas 👋
 
-###
+Information Systems student at UBA (Universidad de Buenos Aires) and ERP developer by day.
+Teaching assistant for Theory of Languages and Algorithms — which means I spend a lot of
+time thinking about how computation works at a fundamental level.
 
-<p align="left">My name is Lucas and I'm an aspirational .NET Developer, from Argentina</p>
+Currently transitioning toward backend development, with Go as my main focus.
 
-###
+## What I'm working with
 
-<h2 align="left">About me</h2>
+- **Day job:** JD Edwards EnterpriseOne (orchestrator, C Business Functions, UBEs)
+- **Learning:** Go — idiomatic patterns, APIs, concurrency, routines
+- **Teaching:** C# for intro programming courses at UBA
 
-###
+## What I'm interested in
 
-<p align="left">Im 25 years old<br>I'm currently learning .NET and ASP.NET <br>My goal for 2026 is getting a .NET job!</p>
+Backend systems, language theory, clean architecture, and not over-engineering things.
 
-###
+## Find me
+
+- 📍 Buenos Aires, Argentina
